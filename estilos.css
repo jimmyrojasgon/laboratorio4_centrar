@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-repeat: no-repeat;
+    background-size: cover;    
+    background-position: center;
+    background-attachment: fixed;
+    padding: 10%;
+}
+
+section {
+    background-color: rgb(213, 185, 60);
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
